@@ -1,5 +1,4 @@
-[[headers]]
-for = "/*" # Aplica los encabezados a todas las rutas
+
 
 "use strict";
 module.exports =  {
